@@ -1,0 +1,78 @@
+Aeronautics
+Aerodynamics
+Air Transportation and Safety
+Aircraft Communications and Navigation
+Aircraft Design, Testing and Performance
+Avionics and Aircraft Instrumentation
+Aircraft Propulsion and Power
+Aircraft Stability and Control
+Research and Support Facilities (Air)
+Astronautics
+Astrodynamics
+Ground Support Systems and Facilities (Space)
+Launch Vehicles and Launch Operations
+Space Transportation and Safety
+Space Communications, Spacecraft Communications, Command and Tracking
+Spacecraft Design, Testing and Performance
+Spacecraft Instrumentation and Astrionics
+Spacecraft Propulsion and Power
+Chemistry and Materials
+Composite Materials
+Inorganic, Organic and Physical Chemistry
+Metals and Metallic Materials
+Nonmetallic Materials
+Propellants and Fuels
+Space Processing
+Engineering
+Communications and Radar
+Electronics and Electrical Engineering
+Fluid Mechanics and Thermodynamics
+Instrumentation and Photography
+Lasers and Masers
+Mechanical Engineering
+Quality Assurance and Reliability
+Structural Mechanics
+Geosciences
+Earth Resources and Remote Sensing
+Energy Production and Conversion
+Environment Pollution
+Geophysics
+Meteorology and Climatology
+Oceanography
+Subject Category
+See NASA Scope and Subject Category Guide for more information
+NASA STI Repository OpenAPI: Data Dictionary - Domain Values
+Life Sciences
+Aerospace Medicine
+Behavioral Sciences
+Man/System Technology and Life Support
+Exobiology
+Mathematical and Computer Sciences
+Computer Operations and Hardware
+Computer Programming and Software
+Computer Systems
+Cybernetics, Artificial Intelligence and Robotics
+Numerical Analysis
+Statistics and Probability
+Systems Analysis and Operations Research
+Theoretical Mathematics
+Physics
+Acoustics
+Atomic and Molecular Physics
+Nuclear Physics
+Optics
+Plasma Physics
+Solid-State Physics
+Physics of Elementary Particles and Fields
+Social and Information Sciences
+Administration and Management
+Documentation and Information Science
+Economics and Cost Analysis
+Law, Political Science and Space Policy
+Technology Utilization and Surface Transportation
+Space Sciences
+Astronomy
+Astrophysics
+Lunar and Planetary Science and Exploration
+Solar Physics
+Space Radiation

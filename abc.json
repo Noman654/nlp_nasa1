@@ -1,0 +1,46 @@
+"19930091025": {
+    "copyright": {
+        "licenseType": "NO",
+        "determinationType": "GOV_PUBLIC_USE_PERMITTED",
+        "thirdPartyContentCondition": "NOT_SET"
+    },
+    "subjectCategories": [
+        "Administration and Management"
+    ],
+    "exportControl": {
+        "isExportControl": "NO",
+        "ear": "NO",
+        "itar": "NO"
+    },
+    "created": "2013-09-06T18:26:00.0000000+00:00",
+    "distributionDate": "2019-07-12T00:00:00.0000000+00:00",
+    "otherReportNumbers": [
+        "NACA-AR-1"
+    ],
+    "center": {
+        "code": "CDMS",
+        "name": "Legacy CDMS",
+        "id": "092d6e0881874968859b972d39a888dc"
+    },
+    "onlyAbstract": false,
+    "sensitiveInformation": 2,
+    "abstract": "Report includes the National Advisory Committee for Aeronautics letter of submittal to the President, Congressional report, summaries of the committee's activities and research accomplished, expenditures, problems, recommendations, and a compilation of technical reports produced.",
+    "title": "Annual Report of the National Advisory Committee for Aeronautics (1st). [Administrative Report Including Technical Reports Nos. 1 to 7]",
+    "stiType": "CONTRACTOR_OR_GRANTEE_REPORT",
+    "distribution": "PUBLIC",
+    "submittedDate": "2013-09-06T18:26:00.0000000+00:00",
+    "isLessonsLearned": false,
+    "disseminated": "DOCUMENT_AND_METADATA",
+    "stiTypeDetails": "Contractor or Grantee Report",
+    "technicalReviewType": "TECHNICAL_REVIEW_TYPE_NONE",
+    "modified": "2013-08-29T00:00:00.0000000+00:00",
+    "id": 19930091025,
+    "publications": [
+        {
+            "submissionId": 19930091025,
+            "id": "1593fb2094ee41aa9c8119464902f8a6",
+            "publicationDate": "1916-01-01T00:00:00.0000000+00:00"
+        }
+    ],
+    "status": "CURATED"
+},
